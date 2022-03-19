@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab5CodingChallange</string>
+    <string name="cheese">Cheese</string>
+    <string name="apple">Apples</string>
+    <string name="rice">Rice</string>
+    <string name="mango">Mango</string>
+    <string name="banana">Banana</string>
+    <string name="peach">Peach</string>
+    <string name="lentil">Lentil</string>
+    <string name="coconut">Coconut</string>
+    <string name="lemon">Lemons</string>
+    <string name="sugar">Sugar</string>
+    <string name="add_item_label">Add Item</string>
+</resources>
